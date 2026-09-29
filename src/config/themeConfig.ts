@@ -160,7 +160,7 @@ export const BUILTIN_THEMES: ThemeConfig[] = [
       borderActive: "#eeeeee",
       glowColor: "rgba(255, 255, 255, 0.15)",
       selectionBg: "#333333",
-      selectionFg: "#ffffff",
+      selectionFg: "#fffbbb",
       statusBarBg: "#080808",
     },
   },
